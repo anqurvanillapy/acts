@@ -1,0 +1,22 @@
+{
+  "name": "acts",
+  "version": "0.1.0",
+  "description": "Actors for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anqurvanillapy/acts.git"
+  },
+  "keywords": [
+    "actor"
+  ],
+  "author": "AnqurVanillapy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anqurvanillapy/acts/issues"
+  },
+  "homepage": "https://github.com/anqurvanillapy/acts#readme"
+}
