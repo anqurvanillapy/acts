@@ -7,9 +7,13 @@
     "checkJs": true,
     "removeComments": true,
     "module": "commonjs",
+    "moduleResolution": "node",
     "target": "es5"
   },
   "include": [
     "./src/**/*"
+  ],
+  "exclude":[
+    "node_modules"
   ]
 }
